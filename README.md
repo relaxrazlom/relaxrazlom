@@ -27,3 +27,8 @@
 </div>
 
 </td><td valign="top" width="33%">
+
+---
+
+### :video_game: Codewars
+![codewars](https://www.codewars.com/users/relaxrazlom/badges/large)
